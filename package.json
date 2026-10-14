@@ -1,0 +1,23 @@
+{
+  "name": "pagina-con-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DerekLagos/Pagina-con-Framework.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DerekLagos/Pagina-con-Framework/issues"
+  },
+  "homepage": "https://github.com/DerekLagos/Pagina-con-Framework#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bulma": "^1.0.4"
+  }
+}
